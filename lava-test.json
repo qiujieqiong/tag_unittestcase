@@ -21,7 +21,7 @@
                         "git-repo": "https://github.com/qiujieqiong/lava-test.git",
                         "testdef": "lava-test.yaml",
                         "parameters": {
-                            "CASE_ID": "57636,57646,57649,57652,57720,57724"
+                            "CASE_ID": "57649"
                         }
                     }
                 ],
